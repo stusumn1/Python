@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vscode_euchre_pairings",
+			"path": "vscode_euchre_pairings"
+		}
+	],
+	"settings": {}
+}
